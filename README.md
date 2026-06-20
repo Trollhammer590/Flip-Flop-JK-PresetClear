@@ -29,9 +29,7 @@ O projeto precisa funcionar de acordo com o diagrama criado em sala de aula, ape
 <div style="width:100%; text-align: justify;">
 O circuito e a programação foram montados primeiramente no Tinkercad, para evitar de queimar algum componente por má conexão. Para o desenvolvimento da programação utilizei a tabela verdade do Flip-Flop como base para o comportamento da nossa programação. Com isso, precisava desenvolver um sistema que guardasse a variável inserida pelo usuário e mais tarde viesse a transpor por uma nova variável. Ou seja, se o usuário guarda 1 na variável, ela rodará em loop no programa, ao clicar 0, o 0 sobreescreve o 1 e agora ele passará a rodar em loop no programa. Tal qual pode ser observado, no diagrama abaixo. 
     <div style="width:75%; text-align:center;">
-       <blockquote class="imgur-embed-pub" lang="en" data-id="rCz2wkm">
-           <a href="https://imgur.com/rCz2wkm">View post on imgur.com</a></blockquote>
-       <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+       <img src="_img/_flip_Flop Diagram.png"></img>
     </div>
 </div>
 
@@ -40,14 +38,11 @@ O circuito e a programação foram montados primeiramente no Tinkercad, para evi
 <div style="width:100%; text-align: justify;">
 Após entender o circuito fiz a conexão de cada componente no Tinkercad e dei início à programação. Depois de finalizada passei para meu Arduino IDE e montei na minha protoboard. Compare a montagem do Tinkercad com a minha abaixo:
     <div >
-        <td> <blockquote class="imgur-embed-pub" lang="en" data-id="BNMg708">
-            <a href="https://imgur.com/BNMg708">View post on imgur.com</a></blockquote>
-        <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+        <td> 
+       <img src="_img/_tinkercad.png"></img>
         </td>
-        <td> <blockquote class="imgur-embed-pub" lang="en" data-id="EZ0SOB6">
-            <a href="https://imgur.com/EZ0SOB6">View post on imgur.com</a>
-            </blockquote>
-            <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+        <td> 
+       <img src="_img/_arduino.jpeg"></img>
             </td>
     </div>
 </div>
