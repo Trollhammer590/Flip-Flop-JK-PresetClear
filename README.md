@@ -10,7 +10,6 @@ Write your code in this editor and press "Run" button to execute it.
  <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello, World!</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
