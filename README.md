@@ -1,18 +1,3 @@
-<!--
-
-                            Online HTML Compiler.
-                Code, Compile, Run and Debug HTML program online.
-Write your code in this editor and press "Run" button to execute it.
-
--->
-
-<html>
- <!DOCTYPE html>
-<html>
-  <head>
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
 <h1>Flip-Flop JK com Entradas Preset e Clear</h1>
 
 <h2 style="text-align: center;">Introdução</h2>
@@ -45,6 +30,3 @@ Após entender o circuito fiz a conexão de cada componente no Tinkercad e dei i
             </td>
     </div>
 </div>
-  </body>
-</html>
-  </html>
